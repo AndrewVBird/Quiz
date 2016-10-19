@@ -1,0 +1,43 @@
+#BG{
+width: 99%;
+height: 99%;
+position: absolute;
+z-index: -10;
+}
+#heading{
+position: absolute;
+left:57%;
+top: 15%;
+}
+#user
+{
+position: absolute;
+left: 60%;
+top: 25%;
+}
+#subWindow{
+position: absolute;
+left: 52.5%;
+top: 40%;
+width: 400px;
+background: white;
+}
+input{
+position: absolute;
+left: 60%;
+top: 70%;
+height: 50px;
+background: transparent;
+border: none;
+font-size: 25pt;
+color: white;
+font-weight: bold;
+text-decoration: underline;
+}
+input:hover{
+font-size: 30pt;
+left:59.5%;
+}
+input:focus{
+outline: 0;
+}

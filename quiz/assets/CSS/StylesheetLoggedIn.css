@@ -1,0 +1,51 @@
+#BG{
+width: 99%;
+height: 99%;
+position: absolute;
+z-index: -10;
+}
+h1{
+position: absolute;
+left:50%;
+top:30%;
+font-size: 40pt;
+font-style: italic;
+}
+#start{
+position: absolute;
+left: 59%;
+top: 45%;
+}
+#pictures{
+position: absolute;
+left: 59%;
+top: 50%;
+}
+#stats{
+position: absolute;
+left: 59%;
+top: 55%;
+}
+#logout{
+position: absolute;
+left: 59%;
+top: 60%;	
+}
+input{
+position: absolute;
+height: 40px;
+background: transparent;
+border: none;
+font-size: 15pt;
+color: white;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+width: 250px;
+}
+input:hover{
+font-size: 20pt;
+}
+input:focus{
+outline: 0;
+}
